@@ -2,12 +2,22 @@
 
 ## How to use
 
-0. Login your github account. 
+### step0
 
-1. https://jituanlin.github.io/assets/img/step.jpg
+ Login your github account. 
 
-2. https://jituanlin.github.io/assets/img/step2.jpg
+### step1
 
-3. https://jituanlin.github.io/assets/img/step3.jpg
+ ![](https://jituanlin.github.io/assets/img/step.jpg)
 
-4. https://jituanlin.github.io/assets/img/step4.jpg
+### step2
+
+ ![](https://jituanlin.github.io/assets/img/step2.jpg)
+
+### step3
+
+ ![](https://jituanlin.github.io/assets/img/step3.jpg)
+
+### setp4
+
+ ![](https://jituanlin.github.io/assets/img/step4.jpg)
